@@ -1,0 +1,31 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+    It was easier to locate the bug when the line(s) where it was were identified and displayed.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+    Easier to fall back to earlier working versions in case a particular "idea" doesn't work out, or a mistake was made.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+    Pros: allows you to commit saves at logical points, such as when you have completed certain functions, and when your code is complete and working at a certain point, rather than being in the middle of editting a single line, etc as with auto-saves.
+
+    Cons: easier to forget to back up saves regularly when not used to doing so; could lose a lot of work.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+    Multiple files in one commit ("save") would allow saving related sets of files together -- a main program, a test suite for that program, related data sets for input and output, etc.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log is used to find differences in commits (files that differ) and a high-level short description of the nature of the change in each commit.
+
+    git diff is used to process two files and highlight exactly where the two files differ (which lines, etc).
+
+How might using version control make you more confident to make changes that could break something?
+
+    Easy to return to an earlier working version, so it encourages "experimenting".
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to check my GitHub profile on the internet and see what it looks like, what is there, what is visible, etc. Also want to try using GitHub on a few small programs, see how it stores, and how to delete items from GitHub.
